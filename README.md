@@ -6,7 +6,7 @@
     * [from J-s.info book](https://javascript.info/array-methods)
     * [mdn list of methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#Instance_methods)
   * [this.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
-    * [and Mdn tutors](https://developer.mozilla.org/en-US/docs/Web/Tutorials)
+  * [and Mdn tutors](https://developer.mozilla.org/en-US/docs/Web/Tutorials)
   
 ## Styles
   * [Css Grid](https://www.imgonline.com.ua/eng/)
