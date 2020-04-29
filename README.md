@@ -12,6 +12,7 @@
   * [Css Grid](https://www.imgonline.com.ua/eng/)
   * [Flexbox](https://yoksel.github.io/flex-cheatsheet/)
     * [Another one](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+  * [Bootstrap free themes](https://bootswatch.com)
   * [Bootstrap csh](https://hackerthemes.com/bootstrap-cheatsheet/)
 
 ## Axios
