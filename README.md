@@ -34,3 +34,7 @@
   
 ## MySql
   * https://gist.github.com/bradtraversy/c831baaad44343cc945e76c2e30927b3
+  
+# Suggestions 
+
+* Write comments about WHY you did smth, rather than WHAT does this thing do
