@@ -14,6 +14,7 @@
     * [Another one](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
   * [Bootstrap free themes](https://bootswatch.com)
   * [Bootstrap csh](https://hackerthemes.com/bootstrap-cheatsheet/)
+  * [font_awesome csh](https://fontawesome.com/cheatsheet?from=io)
 
 ## Axios
   * https://github.com/bradtraversy/axios-crash/blob/master/main.js
