@@ -9,7 +9,7 @@
   * [and Mdn tutors](https://developer.mozilla.org/en-US/docs/Web/Tutorials)
   
 ## Styles
-  * [Css Grid](https://www.imgonline.com.ua/eng/)
+  * [Css Grid](https://learncssgrid.com)
   * [Flexbox](https://yoksel.github.io/flex-cheatsheet/)
     * [Another one](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
   * [Bootstrap free themes](https://bootswatch.com)
