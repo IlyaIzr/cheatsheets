@@ -36,6 +36,11 @@
 ## MySql
   * https://gist.github.com/bradtraversy/c831baaad44343cc945e76c2e30927b3
   
+## Templates
+  * [Rather big templates](https://html5up.net)
+  * [Rather small templates](https://templated.co)
+  * [Many categories](https://colorlib.com/wp/cat/finance/)
+  
 # Suggestions 
 
 * Write comments about WHY you did smth, rather than WHAT does this thing do
