@@ -22,6 +22,9 @@
   
 ## Php
   * [Php logic in html](https://tutorials.supunkavinda.blog/php/in-html)
+
+## Backend simulation
+  * [Fake server that recieves requests](https://webhook.site/)
   
 ## Docker
   * [Basic commands](https://gist.github.com/bradtraversy/89fad226dc058a41b596d586022a9bd3)
